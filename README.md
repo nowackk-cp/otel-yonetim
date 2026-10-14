@@ -57,7 +57,7 @@ Türkçe arayüzlü, tamamen tarayıcıda çalışan, backend gerektirmeyen mode
 
 ## 🚀 Hızlı başlangıç
 
-> **Gereksinim:** Node.js 18+
+> **Gereksinim:** Node.js 22+
 
 ```bash
 git clone https://github.com/nowackk-cp/otel-yonetim.git
